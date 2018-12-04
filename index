@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link href="style.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+</head>
+
+<body>
+    <div class="black-box">
+        <div class="layout-grid">
+            <div class="float-right">
+                <div class="social-links">
+                    <a href="https://www.facebook.com/GetDigitalReady"> <img src="img/fb.png" class="img-5"></a>
+                    <a href="https://twitter.com/GetDigitalReady"><img src="/img/tw.png" class="img-5"></a>
+                    <a href="https://plus.google.com/b/101447754788988014359/+DigitalreadyCoDigitalMarketingTrainingCenter/posts"><img
+                            src="img/google.png" class="img-5"></a>
+                    <a href="https://www.youtube.com/user/GetDigitalReady"><img src="img/ln.png" class="img-5"></a>
+                    <a href="https://www.instagram.com/getdigitalready/?hl=en"><img src="img/insta.png" class="img-5"></a>
+                </div>
+                <div class="phone-numbers">
+                    CALL: 9177503885 | 9490043625 | 9052824869
+                </div>
+                <div class="contact">
+                    <a href="https://digitalready.co/contact-digital-marketing-institute">Contact</a>
+                </div>
+                <div class="clear">
+                </div>
+            </div>
+            <div class="clear">
+            </div>
+        </div>
+    </div>
+    <div class="white-box">
+        <div class="layout-grid_1">
+            <div class="logo">
+                <img src="img/digital-ready - logo.png" class="logo">
+            </div>
+            <div class="nav-box">
+                <ul class="nav-bar">
+                    <li><a href="https://digitalready.co/about">About</a> </li>
+                    <li><a href="https://digitalready.co/courses">Cources</a></li>
+                    <li><a href="https://digitalready.co/training-modes">Training Modes</a></li>
+                    <li><a href="https://digitalready.co/digital-marketing-course-placements">Placements</a></li>
+                    <li><a href="https://digitalready.co/reviews">Reviews</a></li>
+                    <li><a href="https://digitalready.co/digital-marketing-consulting">Consulting</a> </li>
+                    <li><a href="https://digitalready.co/blog">Blog</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+
+    <div class="hero">
+        <div class="hero-layout">
+            <div class="hero-1">
+                <h1>Learn Digital Marketing from the Leaders</h1>
+                <h2>Training + Certification + Internship + Placement</h2>
+            </div>
+            <div class="hero-2">
+                <ul class="no-bullets">
+                    <li>Completed 60+ Batches</li>
+                    <li>Hands-on Practical Experience</li>
+                    <li>Global Certifications</li>
+                    <li>100% Placement Assurance</li>
+                </ul>
+            </div>
+            <div class="hero-3">
+                <button class="join-us" onclick="" type="submit">Learn More</button>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
